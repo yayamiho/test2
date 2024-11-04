@@ -1,6 +1,0 @@
-php artisan key:generate
-php artisan migrate
-php artisan add-site-settings
-php artisan add-text-pages
-php artisan copy-default-images
-php artisan setup-admin-user
